@@ -1,0 +1,4 @@
+fastapi[standard]==0.115.12
+sqlmodel
+# alembic
+psycopg2-binary
